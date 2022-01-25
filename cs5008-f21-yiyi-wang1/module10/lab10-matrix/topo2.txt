@@ -1,0 +1,14 @@
+eat sleep
+eat exercise
+study sleep
+shower sleep
+exercise shower
+cook eat
+read study
+walkdog cook
+watchTV read
+shop cook
+sleep wakeup
+brushteeth shower
+
+
